@@ -2,7 +2,7 @@ import React from 'react'
 
 const GetApp = () => {
   return (
-    <div>GetApp</div>
+    <div>GetApp Sample</div>
   )
 }
 
